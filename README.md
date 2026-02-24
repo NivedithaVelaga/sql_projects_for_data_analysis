@@ -1,57 +1,25 @@
-# SQL Projects Source Code
+# VERY BASIC SQL PROJECTS(CODES)
 
-This repository contains source code for popular SQL projects for beginners, intermediate, and advance. The SQL queries are written for `PostreSQL` database.
+This is a sample repo i made to show my SQL skills it doesnt have any massive working codes. Hope this helps beginners.
 
-## Library Management
+All SQL queries and scripts in this repository are written and optimized for the **PostgreSQL** database.
 
-[View Source Code for Library Management](markdown_files/library_management.md)
+---
 
-[Download Source Code for Library Management](library_management.sql)
+## How to Clone and Run
 
-## Student Database Management
+If you want to run these simple projects on your local machine to practice your SQL skills, follow the steps below:
 
-[View Source Code for Student Database Management](markdown_files/student_management.md)
+### 1. Prerequisites
+* Install [PostgreSQL](https://www.postgresql.org/download/) on your local machine.
+* Install a database GUI like [pgAdmin](https://www.pgadmin.org/) (usually comes with PostgreSQL) or use the `psql` command-line tool.
 
-[Download Source Code for Student Database Management](student_management.sql)
+### 2. Clone the Repository
+Open your terminal or command prompt and run the following commands to clone this repository to your local machine:
 
-## Online Retail Application Database 
+```bash
+# Clone the repository
+git clone [https://github.com/NivedithaVelaga/sql_projects_for_data_analysis.git](https://github.com/NivedithaVelaga/sql_projects_for_data_analysisgit)
 
-[View Source Code for Online Retail Application Database](markdown_files/online_retail_app.md)
-
-[Download Source Code for Online Retail Application Database](online_retail_app.sql)
-
-## Online Inventory Control Management
-
-[View Source Code for Online Inventory Control Management](markdown_files/inventory_control_management.md)
-
-[Download Source Code for Online Inventory Control Management](inventory_control_management.sql)
-
-## Railway System Database
-
-[View Source Code for Railway System Database](markdown_files/railway_system.md)
-
-[Download Source Code for Railway System Database](railway_system.sql)
-
-## Cooking Recipe Database
-
-[View Source Code for Cooking Recipe Database](markdown_files/cooking_recipe.md)
-
-[Download Source Code for Cooking Recipe Database](cooking_recipe.sql)
-
-## Hospital Management System
-
-[View Source Code for Hospital Management System](markdown_files/hospital_management.md)
-
-[Download Source Code for Hospital Management System](hospital_management.sql)
-
-## Billing System for a Departmental Store
-
-[View Source Code for Billing System for a Departmental Store](markdown_files/billing_system.md)
-
-[Download Source Code for Billing System for a Departmental Store](billing_system.sql)
-
-## Bus Booking System Mini Project
-
-[View Source Code for Bus Booking System Mini Project](markdown_files/bus_booking.md)
-
-[Download Source Code for Bus Booking System Mini Project](bus_booking.sql)
+# Navigate into the project folder
+cd sql_projects_for_data_analysis
