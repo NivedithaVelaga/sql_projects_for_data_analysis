@@ -19,7 +19,7 @@ Open your terminal or command prompt and run the following commands to clone thi
 
 ```bash
 # Clone the repository
-git clone [https://github.com/NivedithaVelaga/sql_projects_for_data_analysis.git](https://github.com/NivedithaVelaga/sql_projects_for_data_analysisgit)
+git clone https://github.com/NivedithaVelaga/sql_projects_for_data_analysis.git
 
 # Navigate into the project folder
 cd sql_projects_for_data_analysis
